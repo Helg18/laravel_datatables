@@ -4,3 +4,6 @@
 Homestead.yaml
 Homestead.json
 .env
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
